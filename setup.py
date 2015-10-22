@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='itermocil',
-    version='0.1.7',
+    version='0.1.8',
     url='https://github.com/chris838/itermocil',
     license='MIT',
     description='Create pre-defined window/pane layouts and run commands in iTerm',
